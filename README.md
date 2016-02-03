@@ -1,5 +1,7 @@
-# oreilly-hypermedia-training
-Training materials and background for O'Reilly Hypermedia Training Day
+# O'Reilly Hypermedia Training
+Training materials and background for [http://www.oreilly.com/online-training/hypermedia-node-html5.html](O'Reilly Hypermedia Training Day)
+
+![Hypermedia Tutorial](http://mamund.site44.com/images/orm-hyper-tutorial.png)
 
 ## Preparation
 Below is some "prep work" you can do before the day of the online training. While these are not REQUIRED, going through them will give you a head start on the work of actually coding the server and client apps during class.
